@@ -42,6 +42,7 @@ and more...
 
 ### 🔹 [Portfolio](https://github.com/Enr1qveDev/Portfolio)
 Portofilo personal donde se indica carrera profesional, formación recibida y certificaciones.
+
 `HTML` `CSS` `JavaScript` `Boostrap`
 
 ### 🔹 [Cafeteria Web](github.com/Enr1qveDev/Cafeteria-Web)
