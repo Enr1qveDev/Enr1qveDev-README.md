@@ -58,5 +58,5 @@ Práctica de creación de una página web de una cafetería.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=grey" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Enr1qveDev&style=flat-square&color=grey" alt="profile views" />
 </p>
