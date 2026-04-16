@@ -2,7 +2,7 @@
 
 # Hi there, I'm Enrique 👋
 
-> *"Que mis conocimientos ayuden a la gente que lo necesita, es mi motivación"*
+> *"Que mis conocimientos en informática hagan mas fácil su uso a la gente que lo necesita, es mi motivación"*
 
 Soy Técnico Informático y soporte en transición a la programación, mi interes principal es el front-end, sin embargo debido a las necesidades del sector
 y constante cambio, mi interes real final es el full-stack.
@@ -39,29 +39,19 @@ and more...
 
 ## 📌 Featured Projects
 
-### 🔹 [Project Name](https://github.com/tu-usuario/project-name)
-Short description of what the project does and what technologies you used.
-`HTML` `CSS` `JavaScript`
+### 🔹 [Portfolio](https://github.com/Enr1qveDev/Portfolio)
+Portofilo personal donde se indica carrera profesional, formación recibida y certificaciones.
+`HTML` `CSS` `JavaScript` `Boostrap`
 
-### 🔹 [Project Name](https://github.com/tu-usuario/project-name)
-Short description of what the project does and what technologies you used.
-`React` `TailwindCSS`
+### 🔹 [Cafeteria Web](github.com/Enr1qveDev/Cafeteria-Web)
+Práctica de creación de una página web de una cafetería.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true" />
-</p>
+`HTML` `CSS` `JavaScript` `Boostrap`
 
 ---
 
 ## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enriquemanz.1991@gmail.com)
 
 ---
 
