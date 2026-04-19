@@ -5,7 +5,7 @@
 > *"Que mis conocimientos en informática hagan mas fácil su uso a la gente que lo necesita, es mi motivación"*
 
 Técnico de Sistemas en transición al Desarrollo Web, con experiencia en infraestructura de Data Centers y servidores críticos.
-Mi interes principal es el front-end, sin embargo debido a las necesidades del sector,y constante cambio, mi interes real final es el full-stack.
+Mi interes principal es el front-end, sin embargo debido a las necesidades del sector, y constante cambio, mi interes real final es el full-stack.
 Obviamente se que todo tiene su proceso, y durante ese proceso quiero disfrutar aprendiendo y adquiriendo experienica de los/as mejores de dicho sector.
 
 ---
