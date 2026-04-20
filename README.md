@@ -23,8 +23,8 @@ Obviamente se que todo tiene su proceso, y durante ese proceso quiero disfrutar 
 
 
 **Frameworks & Libraries**
-
-In my projects i used bootstrap with the help of youtube, and AI as i go along.
+> [!NOTE]
+> In my projects i used bootstrap with the help of youtube, and AI as i go along.
 
 Loading more...
 
