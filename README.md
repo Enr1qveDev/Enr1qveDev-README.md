@@ -1,12 +1,10 @@
-# README.md
-
 # Hi there, I'm Enrique 👋
 
-> *"Que mis conocimientos en informática hagan mas fácil su uso a la gente que lo necesita, es mi motivación"*
+## About me
 
 Técnico de Sistemas en transición al Desarrollo Web, con experiencia en infraestructura de Data Centers y servidores críticos.
 Mi interes principal es el front-end, sin embargo debido a las necesidades del sector, y constante cambio, mi interes real final es el full-stack.
-Obviamente se que todo tiene su proceso, y durante ese proceso quiero disfrutar aprendiendo y adquiriendo experienica de los/as mejores de dicho sector.
+Obviamente se que todo tiene su proceso, y durante ese proceso quiero disfrutar aprendiendo y adquiriendo experienica de los/as mejores del sector.
 
 ---
 
@@ -19,15 +17,23 @@ Obviamente se que todo tiene su proceso, y durante ese proceso quiero disfrutar 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**In Progress**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 **Frameworks & Libraries**
 
-Loading...
+In my projects i used bootstrap with the help of youtube, and AI as i go along.
+
+Loading more...
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=apache&logoColor=white)
 
 **Learning next**
 
@@ -60,7 +66,7 @@ Práctica de creación de una página web de una cafetería.
 
 ---
 
-## 📫 Contact
+## 📫 Contact me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:enriquemanz.1991@gmail.com)
 
 ---
