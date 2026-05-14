@@ -64,6 +64,8 @@ Práctica de creación de una página web de una cafetería.
 
 `HTML` `CSS` `JavaScript` `Boostrap`
 
+### 🔹[Tienda de uñas](github.com/Enr1qveDev/Beauty_Nails)
+
 ---
 
 ## 📫 Contact me
