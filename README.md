@@ -54,17 +54,20 @@ and more...
 
 ## 📌 Featured Projects
 
-### 🔹 [Portfolio](https://github.com/Enr1qveDev/Portfolio)
+### 🔹 [Portfolio]([https://github.com/Enr1qveDev/Portfolio](https://enr1qvedev.github.io/Portfolio/formacion.html)
 Portofilo personal donde se indica carrera profesional, formación recibida y certificaciones.
 
 `HTML` `CSS` `JavaScript` `Boostrap`
 
-### 🔹 [Cafeteria Web](github.com/Enr1qveDev/Cafeteria-Web)
+### 🔹 [Cafeteria Web](https://enr1qvedev.github.io/Cafeteria-Web/)
 Práctica de creación de una página web de una cafetería.
 
 `HTML` `CSS` `JavaScript` `Boostrap`
 
-### 🔹[Tienda de uñas](github.com/Enr1qveDev/Beauty_Nails)
+### 🔹 [Tienda de uñas](https://enr1qvedev.github.io/Beauty_Nails/)
+Práctica de creación de una tienda de uñas online.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
