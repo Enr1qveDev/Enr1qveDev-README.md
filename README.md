@@ -54,11 +54,6 @@ and more...
 
 ## 📌 Featured Projects
 
-### 🔹 [Portfolio personal](https://enr1qvedev.github.io/Portfolio/)
-Portofilo personal donde se indica carrera profesional, formación recibida y certificaciones.
-
-`HTML` `CSS` `JavaScript` `Boostrap`
-
 ### 🔹 [Cafeteria Web](https://enr1qvedev.github.io/Cafeteria-Web/)
 Práctica de creación de una página web de una cafetería.
 
